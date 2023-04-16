@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Helcio Soares</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div>
+
+        </div>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Sobre mim</a>
+        </li>
+        <li>
+            <a href="project.html">Projetos</a>
+        </li>
+        <li>
+            <a href="contact.html">Contato>/a>
+            </li>
+        </ul>
+        </nav>
+
+        <header>
+            <div class="center">
+            <img src="foto.png"></img>
+            </div>
+            <h1</h1>Helcio Soares Padilha</h1
+            <h2>Programador</h2>
+            </header>
+
+            <main>
+            </section>
+            h3>Sobre mim</h3>
+            <p>              
+                Lorem ipsum dolor sit amet. Et reprehenderit nisi qui odit assumenda 
+                id tenetur exercitationem et facere quos quo quod accusantium.
+                Eos consequatur consequuntur eos consequatur quae aut deleniti quae
+                est porro odit id deserunt mollitia qui ullam officiis At labore
+                molestias. Est magni omnis 33 velit voluptatem ut laborum
+                exercitationem eos commodi necessitatibus et perspiciatis galisum
+                eos deserunt tempora eos possimus assumenda.
+                </p>
+            </section></section>
+            h3>Formação</h3>
+        <p>              
+            Lorem ipsum dolor sit amet. Et reprehenderit nisi qui odit assumenda 
+            id tenetur exercitationem et facere quos quo quod accusantium.
+            Eos consequatur consequuntur eos consequatur quae aut deleniti quae
+            est porro odit id deserunt mollitia qui ullam officiis At labore
+            molestias. Est magni omnis 33 velit voluptatem ut laborum
+            exercitationem eos commodi necessitatibus et perspiciatis galisum
+            eos deserunt tempora eos possimus assumenda.
+            </p>
+        </section>
+        </main>
+
+        <footer>
+            <a href="https://github.com/helciosoueu" target="_ blank"_ rel="noopener noreferrer
+            <img src="./img/github.svg"></img>
+            <p>Github</p>
+            <a>
+                <footer>
+    </body>
+
+    </html>
+    
